@@ -1,3 +1,5 @@
+##Chatting-Application
+
 The Java Socket Chat Application is a single client-server chat application that allows a client to connect to a server, login, and engage in real-time text-based communication.
 
 ## Features
