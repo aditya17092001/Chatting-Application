@@ -2,7 +2,6 @@ The Java Socket Chat Application is a single client-server chat application that
 
 ## Features
 
-- *Login Authentication*: The client is required to login with a username and password before accessing the chat functionality.
 - *Real-Time Communication*: Once logged in, the client can send and receive text messages in real-time, facilitating interactive communication.
 - *User-friendly Interface*: The client-side interface provides a user-friendly chat window for composing and displaying messages.
 - *Message Broadcasting*: When the client sends a message, the server broadcasts it back to the same client, allowing for a simple chat-like interaction.
